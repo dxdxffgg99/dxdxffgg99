@@ -25,10 +25,6 @@
 <br>
 <br>
 
-## did you want to talk with me?
-#### call here
-[Discord](https://discord.com/users/1138786750559436811)
-
-## did you want to know about me?
-#### see this
-[litt.ly](https://app.litt.ly/page)
+If I had to sum myself up in one sentence,I’m basically that unhinged dude who looks at the web and goes,  
+“Yeah, I’m gonna treat this like an embedded system,”  
+and then actually does it.
