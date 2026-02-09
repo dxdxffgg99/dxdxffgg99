@@ -21,10 +21,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
-<br>
-<br>
-
-If I had to sum myself up in one sentence,I’m basically that unhinged dude who looks at the web and goes,  
-“Yeah, I’m gonna treat this like an embedded system,”  
-and then actually does it.
