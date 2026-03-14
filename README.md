@@ -28,3 +28,10 @@
 - Nvidia 4060
 
 I use Arch btw
+
+
+  <div align="center">
+      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> BOJ </h2>
+      <br>
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=dxdxffg"><br>
+  </div>
