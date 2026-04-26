@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/webassembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ## 🛠️ Tools
@@ -21,17 +24,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-## 😚 Using
-- GitHub
-- Arch linux
-- Intel i9 14900k
-- Nvidia 4060
+## Computer
 
-I use Arch btw
+### kr0
+<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/fff.png"/>
 
-
-  <div align="center">
-      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> BOJ </h2>
-      <br>
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=dxdxffg"><br>
-  </div>
+### kr1 (kr1.dxdxffg.com)
+<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/ffff.png"/>
