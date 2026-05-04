@@ -31,3 +31,9 @@
 
 ### kr1 (kr1.dxdxffg.com)
 <img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/kr1.png"/>
+
+## Playing games
+· Arknight:Endfield <br/>
+· Roblox <br/>
+· Stardew Valley <br/>
+· Terraria <br/>
