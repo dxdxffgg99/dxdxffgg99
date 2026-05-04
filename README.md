@@ -30,4 +30,4 @@
 <img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/fff.png"/>
 
 ### kr1 (kr1.dxdxffg.com)
-<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/ffff.png"/>
+<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/dd.png"/>
