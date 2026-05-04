@@ -27,7 +27,7 @@
 ## Computer
 
 ### kr0
-<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/fff.png"/>
+<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/kr0.png"/>
 
 ### kr1 (kr1.dxdxffg.com)
-<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/dd.png"/>
+<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/kr1.png"/>
