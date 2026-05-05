@@ -38,6 +38,9 @@
 ### kr1 (kr1.dxdxffg.com)
 <img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/kr1.png"/>
 
+### kr2
+<img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/kr2.png"/>
+
 ## Playing games
 · Arknight:Endfield <br/>
 · Roblox <br/>
