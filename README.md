@@ -13,6 +13,13 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
+## 📚 Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
+
+
 ## 🛠️ Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
