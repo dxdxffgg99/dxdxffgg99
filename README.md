@@ -16,6 +16,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 
@@ -28,6 +29,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+## 🔨 IDE
+<p align="left">
+  <img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vsc-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
 ## Computer
