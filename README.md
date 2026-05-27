@@ -45,7 +45,7 @@
 
 <img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/kr0.png"/>
 
-### kr1 (kr1.dxdxffg.com)
+### kr1 (kr1.dxdxffg.dev)
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/dxdxffgg99/dxdxffgg99/main/kr1.png"/>
