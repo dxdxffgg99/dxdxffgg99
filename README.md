@@ -22,9 +22,4 @@
 
 ---
 
-### Architecture of my code
-- Automate is my friend.
-- Perfomance is my goal.
-- Portable is my style.
-- Flexibility is my power.
-- System is my identity.
+![dxdxffgg99](https://count.getloli.com/@dxdxffgg99?name=sinokadev&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
