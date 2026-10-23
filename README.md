@@ -20,7 +20,7 @@
 
 ### Contact  
 
-**Email** : [dxdxffgg99@gmail.com](mailto://dxdxffgg99@gmail.com)
+**Email** : [dxdxffgg99@gmail.com](mailto://dxdxffgg99@gmail.com)  
 **Discord** : <https://discord.com/users/1138786750559436811>
 
 ---
