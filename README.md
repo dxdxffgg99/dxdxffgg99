@@ -1,6 +1,8 @@
 # dxdxffg
 
-**잡식성 개발자**
+🇰🇷 (UTC+9, Asia/Seoul)
+
+**시스템 웹 DevOps 개발자**
 
 ---
 
@@ -14,6 +16,12 @@
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dxdxffgg99&&theme=dark&layout=compact)
 
+---
+
+### Contact
+
+Email : [dxdxffgg99@gmail.com](mailto://dxdxffgg99@gmail.com)
+Discord : <https://discord.com/users/1138786750559436811>
 ---
 
 ### PRs
