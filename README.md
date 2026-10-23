@@ -29,9 +29,16 @@
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/mdn/translated-content/pull/39062>
-            <img src="https://opengraph.githubassets.com/f849317144219f4aca090db8b118cfb73d70037db5ba8180d558d07ebc8a2447/mdn/translated-content/pull/38274" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" />
+            <img src="https://opengraph.githubassets.com/f849317144219f4aca090db8b118cfb73d70037db5ba8180d558d07ebc8a2447/mdn/translated-content/pull/39062" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" />
             <br />
             <sub style="font-size:14px"><b>mdn/translated-content#39062</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/mdn/content/pull/46235>
+            <img src="https://opengraph.githubassets.com/f849317144219f4aca090db8b118cfb73d70037db5ba8180d558d07ebc8a2447/mdn/content/pull/46235" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" />
+            <br />
+            <sub style="font-size:14px"><b>mdn/content#46235</b></sub>
         </a>
     </td>
 </tr>
